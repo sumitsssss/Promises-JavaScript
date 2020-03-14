@@ -1,2 +1,2 @@
-# Promises JavaScript
+# Promises in JavaScript
  Promises with good code snippets
